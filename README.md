@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rushikesh-waghmode-967162239/](https://www.linkedin.com/in/rushikesh-waghmode-967162239/)
 
-- ⚡ Fun fact **Jack can have many Ace**
+- ⚡ Fun fact **Jack can have many Aces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
