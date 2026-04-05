@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastrwa8938&label=Profile%20views&color=0e75b6&style=flat" alt="beastrwa8938" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science and Nano Technologies**
+- 🌱 I’m currently learning **Machine Learning, AI Agents and LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BeastRWA8938](https://github.com/BeastRWA8938)
 
 - 📝 I regularly write articles on [https://medium.com/@rushikeshwaghmode](https://medium.com/@rushikeshwaghmode)
 
-- 💬 Ask me about **Machine Learning, WebDev, Embedded Systems and IoT**
+- 💬 Ask me about **Machine Learning, Agentic AI, LLM, Embedded Systems and IoT**
 
 - 📫 How to reach me **rushikeshwaghmode688@gmail.com**
 
