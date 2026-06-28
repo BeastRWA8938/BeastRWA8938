@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Machine Learning, Agentic AI, LLM, Embedded Systems and IoT**
 
-- 📫 How to reach me **rushikeshwaghmode688@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/rushikesh-waghmode-967162239/](https://www.linkedin.com/in/rushikesh-waghmode-967162239/)
 
 - ⚡ Fun fact **A Jack can hold many Aces!**
